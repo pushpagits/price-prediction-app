@@ -1,2 +1,5 @@
 # price-prediction-app
-new repo
+this is my first repo
+<br>
+Author - Pushparaj patil
+
